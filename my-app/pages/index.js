@@ -364,12 +364,12 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="C:\Users\Meiram Sopy\Desktop\NFT-Collection\my-app\public\0.svg" />
+          <img className={styles.image} src="./cryptodevs/0.svg" />
         </div>
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Meiram Sopy Temirzhanov
+        Made with &#10084; by Crypto Devs
       </footer>
     </div>
   );
